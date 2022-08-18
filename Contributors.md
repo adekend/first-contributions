@@ -9,6 +9,7 @@
 - [Tanush Dhamija](https://github.com/tanushdhamija)
 - [Devang Shah](https://github.com/Devang-Shah-49)
 - [Ignatius Obiorah](https://github.com/ignatiusobiorah)
+- [Adeogun Kehinde]
 - [Shukur Avazov](https://github.com/shukuravazov)
 - [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Olamide omitogun](https://github.com/Olamide0411)
